@@ -1,0 +1,273 @@
+INFO:user_service:User Created
+ERROR:root:Error in creating new user : no such table: USER
+INFO:main:User Created
+INFO:user_service:User Created
+ERROR:root:Error in creating new user : no such table: USER
+INFO:main:User Created
+INFO:user_service:User Created
+ERROR:root:Error in creating new user : no such table: USER
+INFO:main:User Created
+INFO:user_service:User Created
+INFO:root:User created
+INFO:main:User Created
+ERROR:root:Error in creating new user : no such table: USER
+ERROR:main:failed to create user
+ERROR:root:Error in creating new user : no such table: USER
+ERROR:main:failed to create user
+ERROR:root:Error in creating new user : no such table: USER
+ERROR:main:failed to create user
+ERROR:root:Error in creating new user : no such table: USER
+ERROR:main:failed to create user
+INFO:root:user details name='Dharma' email='krishna@email.com' password='1234' role='Employer'
+ERROR:root:Error in creating new user : no such table: USER
+ERROR:main:failed to create user
+INFO:root:user details name='Dharma' email='krishna@email.com' password='1234' role='Employer'
+INFO:root:User created
+INFO:main:User Created
+ERROR:root:Error in creating new job post : 4 values for 9 columns
+ERROR:main:failed to create job post
+ERROR:root:Error in creating new job post : 4 values for 9 columns
+ERROR:main:failed to create job post
+INFO:jobposts_dao:job post details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+ERROR:root:Error in creating new job post : 4 values for 9 columns
+ERROR:main:failed to create job post
+INFO:main:job details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:jobposts_dao:job post details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+ERROR:root:Error in creating new job post : 4 values for 9 columns
+ERROR:main:failed to create job post
+INFO:main:job details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:jobposts_dao:job post details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+ERROR:root:Error in creating new job post : 4 values for 9 columns
+ERROR:main:failed to create job post
+INFO:main:job details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:jobposts_dao:job post details job_role='software developer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:root:Job post created
+INFO:main:Job post Created
+ERROR:main:
+ERROR:main:
+INFO:root:user details name='babu' email='babu@email.com' password='123' role='Jobseeker'
+INFO:root:User created
+INFO:main:User Created
+INFO:main:job details job_role='software engineer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:jobposts_dao:job post details job_role='software engineer' company_name='revature' description='str' experience=2 posted_on=datetime.date(2021, 3, 25) location='chennai' salary_range='5000000' skills='thon,java' user_id=1
+INFO:root:Job post created
+INFO:main:Job post Created
+INFO:root:Applied for job post
+INFO:main:Applied for job post
+INFO:root:Job Status updated
+INFO:main:Job status updated
+INFO:jobstatus_dao:Job Status updated
+INFO:main:Job status updated
+INFO:jobstatus_dao:Job Status updated
+INFO:main:Job status updated
+INFO:jobstatus_dao:Job Status updated
+INFO:main:Job status updated
+INFO:root:Job Status updated
+INFO:main:Job status updated
+INFO:root:Job Status updated
+INFO:main:Job status updated
+INFO:root:Job Status dao file
+INFO:main:Job status updated
+INFO:main:User data retreived
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found type() takes 1 or 3 arguments
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found type() takes 1 or 3 arguments
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:user_service:User credentials not found  Unable to find user
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:user_service:User credentials not found  Unable to find user 1
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 
+ERROR:user_service:User credentials not found  Unable to find user 1
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user details name='dharma' email='krishna@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna1@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User created
+INFO:main:User Created
+INFO:user_dao:user details name='dharma' email='krishna1@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna1@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:user_service:Unable to create user in UserService
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 30, in create_user
+    raise Exception("User already exists")
+Exception: User already exists
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_service.py", line 12, in create_user
+    return user_dao.create_user(user_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 42, in create_user
+    raise Exception("Unable to insert user information")
+Exception: Unable to insert user information
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna1@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:user_service:Unable to create user in UserService
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 30, in create_user
+    raise Exception("User already exists")
+Exception: User already exists
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_service.py", line 12, in create_user
+    return user_dao.create_user(user_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 42, in create_user
+    raise Exception("Unable to insert user information")
+Exception: Unable to insert user information
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna2@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User created
+INFO:main:User Created
+INFO:user_dao:user details name='dharma' email='krishna2@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:user_service:Unable to create user in UserService
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 30, in create_user
+    raise Exception("User already exists")
+Exception: User already exists
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Durga\Desktop\Project-0\src\user_service.py", line 12, in create_user
+    return user_dao.create_user(user_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Durga\Desktop\Project-0\src\user_dao.py", line 42, in create_user
+    raise Exception("Unable to insert user information")
+Exception: Unable to insert user information
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna2@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User already exists
+ERROR:user_dao:Error in creating new user: User already exists
+ERROR:user_service:Unable to create user in UserService
+ERROR:main:failed to create user
+INFO:user_dao:user details name='dharma' email='krishna3@email.com' password='1234' role='Jobseeker'
+INFO:user_dao:User created
+INFO:main:User Created
+INFO:user_dao:user credentials found in table
+ERROR:main:failed to login
+INFO:user_dao:user credentials found in table
+ERROR:user_service:User credentials not found 'dict' object has no attribute 'email'
+ERROR:main:failed to retrieve data
+ERROR:user_service:User credentials not found 'dict' object has no attribute 'email'
+ERROR:main:failed to retrieve data
+ERROR:user_service:User credentials not found 'dict' object has no attribute 'email'
+ERROR:main:failed to retrieve data
+INFO:main:User data retreived
+ERROR:user_service:User credentials not found Invalid header string: 'utf-8' codec can't decode byte 0x88 in position 6: invalid start byte
+ERROR:main:failed to retrieve data
+ERROR:user_service:User credentials not found Invalid header string: 'utf-8' codec can't decode byte 0x88 in position 6: invalid start byte
+ERROR:main:failed to retrieve data
+INFO:main:User data retreived
+ERROR:main:failed to create job post
+ERROR:main:failed to create job post
+ERROR:main:failed to create job post
+ERROR:jobposts_service:Unable to create jobpost User don't have permission
+ERROR:main:failed to create job post
+ERROR:jobposts_service:Unable to create jobpost User don't have permission
+ERROR:main:failed to create job post
+ERROR:jobposts_service:Unable to create jobpost User don't have permission
+ERROR:main:failed to create job post
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+INFO:user_dao:user credentials found in table
+ERROR:jobposts_service:Unable to fetch all jobposts of employer cannot access local variable 'e' where it is not associated with a value
+ERROR:main:
+INFO:user_dao:user details name='hello2' email='hello2@example.com' password='123456' role='employee'
+INFO:user_dao:User created
+INFO:main:User Created
+INFO:user_dao:user credentials found in table
+ERROR:jobposts_service:Unable to create jobpost cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to create job post
+ERROR:jobposts_service:Unable to create jobpost cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to create job post
+ERROR:jobposts_service:Unable to create jobpost cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to create job post
+INFO:user_dao:user credentials found in table
+ERROR:jobposts_service:Unable to create jobpost cannot access local variable 'e' where it is not associated with a value
+ERROR:main:failed to create job post
